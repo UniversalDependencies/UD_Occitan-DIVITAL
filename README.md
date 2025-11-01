@@ -19,24 +19,24 @@
 
 # Changelog
 
-* 2021-11-15 v2.9
+* 2021-11-15 v2.17
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.9
+Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: nonfiction news
+Genre: TO BE SPECIFIED
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Janssen, Maarten
+Contributors: Bras, Myriam
 Contributing: here
-Contact: maartenpt@gmail.com
+Contact: myriam.bras@univ-tlse2.fr
 ===============================================================================
 </pre>
